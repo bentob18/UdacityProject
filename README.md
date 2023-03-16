@@ -5,6 +5,7 @@ In this project we are using Jupyter Notebook on Kaggle, that has Python v3.7.12
 1. Pandas
 2. Numpy
 3. Sci-kit Learn
+4. Seaborn
 # Motivation 
 I did a project in my data science university about a decision tree classifier in the Brasília (Brazil) bicycle system.
 # File descriptions
@@ -15,3 +16,6 @@ In this project we have 2 CSV files:
 In this project my main objetive was try to get the best accuracy as possible in a decision tree classifier. After some tries and adding some criterions i achieved 88% of accuracy in my test dataset.
 # Documentation
 Udacity Project documentation is built with the analysis of a competition made in my university created by my teacher (https://www.kaggle.com/competitions/edciedadosuniceub2022) and submited by me and my friends (Team "CamaradasDoPython") and consists in the usage of my own coding, separetely translated in a new notebook.
+# Medium
+I wrote a medium-like post about this project, if you have time please check it out: 
+https://medium.com/@paraobentinho/exploring-bike-sharing-patterns-in-brasília-brazil-89a113b7f841
