@@ -7,7 +7,10 @@ In this project we are using Jupyter Notebook on Kaggle, that has Python v3.7.12
 3. Sci-kit Learn
 4. Seaborn
 # Motivation 
-I did a project in my data science university about a decision tree classifier in the Brasília (Brazil) bicycle system.
+I did a project in my data science university about a decision tree classifier in the Brasília (Brazil) bicycle system with the objectives of answering those questions:
+1. What are the overall patterns of bike usage in Brasília?
+2. Are there differences in bike usage between weekdays and weekends?
+3. What are the most popular start and end stations for bike trips?
 # File descriptions
 In this project we have 2 CSV files:
 1. df_train.csv carries the information about each ride made during the year of 2018, from January to August, in a train dataset.
